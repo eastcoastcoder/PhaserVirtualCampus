@@ -2,7 +2,7 @@
 	text-align:center; 
 	color:white; }
 body {
-	background-image:url("bg.jpg");
+	background-image:url("./assets/bg/bg.png");
 	width: 964px;
 	margin: 35px auto;
 	border:  3px solid white; }
